@@ -17,7 +17,7 @@ public class TestClass {
 		
 	}
 	public void newcommit(){
-		
+		System.out.println("Ny commit")
 	}
 
 }
