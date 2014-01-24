@@ -16,5 +16,8 @@ public class TestClass {
 		//TEST TEST
 		
 	}
+	public void newcommit(){
+		
+	}
 
 }
